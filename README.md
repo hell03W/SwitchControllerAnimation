@@ -325,6 +325,8 @@ BaseViewController中实现以上方法即可, 要想实现侧滑功能, 还需�
 
 另有其它几种动效效果, 详见github源码.
 
+如果您觉得本文有用, 欢迎star支持一下 😃 . 
+
 **源码地址:** https://github.com/hell03W/SwitchControllerAnimation
 
 # 后记
